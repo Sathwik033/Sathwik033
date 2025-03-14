@@ -30,14 +30,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 <p>
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Manish1808&show_icons=true&count_private=true&theme=algolia" alt="Manish's GitHub stats" />  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=Manish1808&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Sathwik033&show_icons=true&count_private=true&theme=algolia" alt="Manish's GitHub stats" />  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=Sathwik033&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish1808&theme=algolia&hide_border=false" alt="Top Langs">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathwik033&theme=algolia&hide_border=false" alt="Top Langs">
   <br><br>
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamvijaylattupally&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sathwik033&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🌐 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-thallapelli/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr._.sathwikk/)

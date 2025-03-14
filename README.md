@@ -32,7 +32,7 @@
 <p>
   <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Sathwik033&show_icons=true&count_private=true&theme=algolia" alt="Sathwik's GitHub stats" />  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=Sathwik033&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathwik033&theme=algolia&hide_border=false" alt="Top Langs">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathwik033&theme=algolia&hide_border=false" alt="Streak">
   <br><br>
 </p>
 

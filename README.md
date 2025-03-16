@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate | Web developer | Programming enthusiast</h3>
 
 # 💫 About Me:
-🚀 Currently building *Sorting Visualizer effectively demonstrates sorting algorithms using financial data.<br>🤝 Open to collaborating on **web development* and *DSA-related* projects.<br>📖 Exploring advanced *Data Structures and Algorithms* to enhance problem-solving skills.<br>💡 Passionate about *React.js, Java, Dsa and database management.<br>📬 Reach me at **sathwikgoud35@gmail.com*<br>🎬 Outside of coding, I love playing cricket and browsing!  
+🚀 Currently building *Sorting Visualizer effectively demonstrates sorting algorithms using financial data.<br>🤝 Open to collaborating on **web development* and *DSA-related* projects.<br>📖 Exploring advanced *Data Structures and Algorithms* to enhance problem-solving skills.<br>💡 Passionate about *React.js, Java, Dsa and database management.<br>📬 How to reach me *sathwikgoud35@gmail.com*<br>🎬 Outside of coding, I love playing cricket and browsing!  
 
 
 # 💻 Tech Stack:

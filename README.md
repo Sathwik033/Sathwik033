@@ -29,15 +29,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-<p>
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Sathwik033&show_icons=true&count_private=true&theme=algolia" alt="Sathwik's GitHub stats" />  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=Sathwik033&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathwik033&theme=algolia&hide_border=false" alt="Streak">
-  <br><br>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Sathwik033&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sathwik033&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwik033&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sathwik033&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 ## 🌐 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-thallapelli/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr._.sathwikk/)
